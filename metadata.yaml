@@ -1,0 +1,34 @@
+_repo: Some-Old-Time-BeautiesAfter-Portraits-by-the-English-Masters-with-Embellishment-and-Comment_16079
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Willing, Thomson
+    birthdate: 1860
+    deathdate: 1898
+    gutenberg_agent_id: '6475'
+    url: http://www.gutenberg.org/2009/agents/6475
+description: ''
+gutenberg_issued: '2005-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16079'
+  lccn: 04025874
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- Biography'
+- !lcsh 'Women -- Biography'
+tableOfContents: Georgiana, Duchess of Devonshire -- Mary, Honorable Mrs. Graham --
+  Emma, Lady Hamilton -- Mrs. Sheridan -- Marguerite, Countess Blessington -- Mary
+  Isabella, Duchess of Rutland -- Lavinia, Countess Spencer -- Elizabeth, Duchess
+  of Hamilton -- Maria, Countess of Coventry -- Elizabeth, Countess Grosvenor.
+title: 'Some Old Time Beauties
+
+  After Portraits by the English Masters, with Embellishment and Comment'
+url: http://www.gutenberg.org/ebooks/16079
