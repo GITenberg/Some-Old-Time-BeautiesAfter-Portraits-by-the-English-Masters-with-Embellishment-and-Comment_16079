@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6475'
     url: http://www.gutenberg.org/2009/agents/6475
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16079#Some-Old-Time-BeautiesAfter-Portraits-by-the-English-Masters-with-Embellishment-and-Comment
 gutenberg_issued: '2005-06-16'
 gutenberg_type: Text
 identifiers:
